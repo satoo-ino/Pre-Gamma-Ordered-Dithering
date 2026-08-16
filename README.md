@@ -37,7 +37,7 @@ This approach:      image -> gamma correct -> dither -> output
 
 ## Status
 
-This is an experimental / I mainly built it to get familiar with GitHub. It works, but expect rough edges. Issues and comparisons against other approaches are welcome.
+This is an experimental / learning project, I mainly built it to get familiar with GitHub. It works, but expect rough edges. Issues and comparisons against other approaches are welcome.
 
 
 ## Usage
