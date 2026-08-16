@@ -32,7 +32,7 @@ This approach:      image -> gamma correct -> dither -> output
 |---|---|---|
 | ![original](Comparison/og.png) | ![standard approach](Comparison/gamma%20last.png) | ![this approach](Comparison/gamma%20first.png) |
 
->  **View at 100% scale.** These images must be seen at their actual pixel size — keep in mind tha browsers downscale with interpolation by default, which blends the dither pattern together and makes this approach's output look considerably darker than it really is.
+>  **View at 100% scale.** These images must be seen at their actual pixel size — keep in mind that browsers downscale with interpolation by default, which blends the dither pattern together and makes this approach's output look considerably darker than it really is.
 
 
 ## Status
