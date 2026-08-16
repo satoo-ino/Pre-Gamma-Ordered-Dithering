@@ -32,7 +32,7 @@ This approach:      image -> gamma correct -> dither -> output
 |---|---|---|
 | ![original](Comparison/og.png) | ![standard approach](Comparison/gamma%20last.png) | ![this approach](Comparison/gamma%20first.png) |
 
->  **View at 100% scale.** These images must be seen at their actual pixel size —  Zoom to 100% (or open the raw file) before comparing to prevent your browser from downscaling the images
+>  **View at 100% scale.** These images must be seen at their actual pixel size —  Zoom to 100% (or open the raw file) before comparing to prevent your browser from downscaling or upscaling the images
 
 ## Status
 
